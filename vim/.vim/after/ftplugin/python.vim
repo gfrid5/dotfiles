@@ -1,4 +1,4 @@
-set shiftwidth=4 tabstop=4 softtabstop=4 noexpandtab autoindent smartindent
+set shiftwidth=4 tabstop=8 softtabstop=4 noexpandtab autoindent smartindent
 set colorcolumn=80
 setlocal path=.,**
 setlocal include=^\\s*\\(from\\\|import\\)\\s*\\zs\\(\\S\\+\\s\\{-}\\)*\\ze\\($\\\|\ as\\)
